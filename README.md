@@ -14,7 +14,7 @@ Minecraft Function LSP for better development experience
 
 # 💻 Demonstration
 
-> \[!INFO\]
+> \[!NOTE\]
 > This project is still in-development. This section will appear later.
 
 # 🧩 Installation
