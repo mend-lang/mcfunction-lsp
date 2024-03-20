@@ -6,15 +6,15 @@ Minecraft Function LSP for better development experience
 
 * [💻 Demonstration](#-demonstration)
 * [🧩 Installation](#-installation)
-    * [Neovim](#neovim)
-    * [VSCode / VSCodium](#vscode--vscodium)
+  * [Neovim](#neovim)
+  * [VSCode / VSCodium](#vscode--vscodium)
 * [📦 Building](#-building)
 
 <!-- vim-markdown-toc -->
 
 # 💻 Demonstration
 
-> \[INFO\]
+> \[!NOTE\]
 > This project is still in-development. This section will appear later.
 
 # 🧩 Installation
